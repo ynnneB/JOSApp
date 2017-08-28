@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+JOSApp/Library/shadercompiler-UnityShaderCompiler.exe0.log
+JOSApp/Temp/UnityLockfile
+JOSApp/Library/shadercompiler-UnityShaderCompiler.exe0.log
